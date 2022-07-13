@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CarbiaMotorsReactJS/static/css/main.bc559b6e.css",
+    "main.js": "/CarbiaMotorsReactJS/static/js/main.d6a0947f.js",
+    "static/js/787.19622cb1.chunk.js": "/CarbiaMotorsReactJS/static/js/787.19622cb1.chunk.js",
+    "static/media/pexels-pragyan-bezbaruah-2629412.jpg": "/CarbiaMotorsReactJS/static/media/pexels-pragyan-bezbaruah-2629412.7170c3e80453d9dc6322.jpg",
+    "static/media/cm.jpeg": "/CarbiaMotorsReactJS/static/media/cm.203c4d40067a5978843f.jpeg",
+    "index.html": "/CarbiaMotorsReactJS/index.html",
+    "main.bc559b6e.css.map": "/CarbiaMotorsReactJS/static/css/main.bc559b6e.css.map",
+    "main.d6a0947f.js.map": "/CarbiaMotorsReactJS/static/js/main.d6a0947f.js.map",
+    "787.19622cb1.chunk.js.map": "/CarbiaMotorsReactJS/static/js/787.19622cb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc559b6e.css",
+    "static/js/main.d6a0947f.js"
+  ]
+}
